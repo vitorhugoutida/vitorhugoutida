@@ -1,19 +1,38 @@
-### Olá! 👋 Bem vindo ao meu perfil, sou Vitor Hugo Utida
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=F7F7F7&width=510&lines=Ol%C3%A1%2C+sou+Vitor+Hugo+Utida!;Seja+bem+vindo+ao+meu+perfil!;Tenho+15+anos+e+adoro+tecnologias!" alt="Typing SVG" /></a> -->
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=F77900&width=510&lines=Ol%C3%A1%2C+sou+Vitor+Hugo+Utida!;Seja+bem+vindo+ao+meu+perfil!;Tenho+15+anos+e+adoro+tecnologias!" alt="Typing SVG" /></a> -->
 
-Sou Vitor Hugo Utida Nascimento, estou no 2° ano do ensino médio na escola Wallace Cockrane Simonsen e estou me formando no curso técnico de Jogos Digitais no Senai Paulo Antonio Skaf.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F78900FF&width=620&lines=Ol%C3%A1%2C+sou+Vitor+Hugo+Utida!;Seja+bem+vindo+ao+meu+perfil!;Tenho+15+anos+e+adoro+tecnologias!" alt="Typing SVG" /></a>
+<!--### Olá! 👋 Bem vindo ao meu perfil, sou Vitor Hugo Utida-->
+<h3>Estudante,</h3>
+<p>Sou Vitor Hugo Utida Nascimento, estou no 3° ano do ensino médio na escola Wallace Cockrane Simonsen e estou me formando no curso técnico de Jogos Digitais no Senai Paulo Antonio Skaf.</p>
 
 O meu objetivo é continuar estudando e me aperfeiçoando nessa área da tecnologia que gosto tanto!
 
-Fale comigo:
+<div>
+  <a href="https://github.com/vitorhugoutida">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorhugoutida&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhugoutida&layout=compact&langs_count=7&theme=slateorange"/>
+</div>
+
+<div style="display: inline_block"><br>
+
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Java script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center"  alt="Unity logo" height="30" width="40" src="https://cdn.simpleicons.org/unity/FFFFFF"/>
+  <img align="center"  alt="Figma logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img align="center"  alt="Git loho" height="30" width="40" src="https://cdn.simpleicons.org/git/F05032"/>
+  <img align="center"  alt="Adobe Ilustrator logo" height="30" width="40" src="https://skillicons.dev/icons?i=ai"/>
+  <img align="center"  alt="Adobe Photoshop logo" height="30" width="40"src="https://skillicons.dev/icons?i=ps" height="40"/>
+</div>
+
+<h2>Fale comigo:</h2>
 
 - WhatsApp: (11) 961882555
 - Discord: vitoretarainvr
-<div style="display: inline_block"><br>
-<img justify-content= flex-start align="center" alt="Tadeu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img justify-content= flex-start align="center" alt="Tadeu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img justify-content= flex-start align="center"  alt="figma logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-<img justify-content= flex-start align="center"  alt="git logo" height="30" width="40" src="https://cdn.simpleicons.org/git/F05032"/>
-</div>
+- E-mail: vitorhugoutida@gmail.com
+- LikedIn: Vitor Hugo Utida
 
 <div>
   <h2>:mailbox: Como chegar até mim:</h2>
