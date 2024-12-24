@@ -32,12 +32,26 @@ O meu objetivo é continuar estudando e me aperfeiçoando nessa área da tecnolo
   <img align="center"  alt="Adobe Ilustrator logo" height="30" width="40" src="https://skillicons.dev/icons?i=ai"/>
 </div>
 
-<h2>Fale comigo:</h2>
+<h2>🏆 Certificações: </h2>
+<div align="center">
+  <div align="left">
+    <p>- Desvendando a descarbonização (SENAI)</p>
+    <p>- Ética na inteligência artificial (SENAI)</p>
+    <p>- Por dentro da segurança cibernética (SENAI)</p>
+    <p>- Desvendando o 5G (SENAI)</p>
+    <p>- Economia circular (SENAI)</p>
+    <p>- Privacidade e proteção de dados LGPD (SENAI)</p>
 
-- WhatsApp: (11) 96188-2555
-- Discord: vitoretarainvr
-- E-mail: vitorhugoutida@gmail.com
-- LikedIn: Vitor Hugo Utida
+  </div>
+</div>
+
+
+<h2>📫 Fale comigo:</h2>
+
+* WhatsApp: (11) 96188-2555
+* Discord: vitoretarainvr
+* E-mail: vitorhugoutida@gmail.com
+* LikedIn: Vitor Hugo Utida
 
 <div>
   <h2>:mailbox: Como chegar até mim:</h2>
